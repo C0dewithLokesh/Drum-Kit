@@ -1,5 +1,5 @@
  <div align="center">
- <h2 align="center">Dice Game</h2>
+ <h2 align="center">Drum Kit</h2>
  
  This project is a web-based drum kit that allows users to play various drum sounds using their keyboard or mouse. It was built using HTML, CSS, and JavaScript.
  
